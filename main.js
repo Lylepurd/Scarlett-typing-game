@@ -1,15 +1,14 @@
 // all of our quotes
 const quotes = [
-    "Dont apologize why do you always apologize?",
-    "Are you unhappy if you are poor?",
-    "Is it pitiful if you cant wear a beautiful kimono?",
-    "Do you want to blame someone that much?",
-    "I am Nezuko Kamado! A demon killed my family.",
-    "You did your best! But it didnt work, so it can’t be helped.",
-    "Youre a human being, and no one anything will go your way.",
-    "Go forward. Lets do our best together. Lets fight.",
-    "Dont apologize. You know, big brother. You know how I feel.",
-    "I protect and help people, never hurt them."];
+  "Don't Worry, I Will Sugar Mama You",
+  "Dad, The WiFi's Not Working. I Can't Post Anything. There Was A Hurricane, Sweetheart.",
+  "Thats JJ. Mild Kleptomaniac And A Future Tax Cheat.",
+  "Denials Underrated. You Should Try It Sometime.",
+  "Woogity Woogity Woogity!",
+  "I Was On The Math Team!",
+  "Stop Barking At The Snakes!",
+  "Did You Just Yeet Over That Chain?"
+  ];
 // store the list of words and the index of the word the player is currently typing
 let words = [];
 let wordIndex = 0;

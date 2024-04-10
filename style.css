@@ -14,8 +14,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: no-repeat url(https://staticg.sportskeeda.com/editor/2022/01/bb34c-16425317373941.png?w=840);
-    background-size: cover;
+    background: no-repeat url(https://hips.hearstapps.com/hmg-prod/images/outerbanks-101-sg-00057r2-1-1588178506.jpg?crop=0.502xw:1.00xh;0.304xw,0&resize=1200:*);
+    background-size:cover;
+    background-color: black;
     color: white;
 }
 
